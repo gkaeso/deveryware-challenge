@@ -1,0 +1,25 @@
+Line Number; Name; Date; Longitude; Latitude; Accuracy (m); Speed (km/h); Heading; Altitude; Address; Driver ID;Tacho state;Driver state;Drive time;Partial km;Total km;GPRS on/off;On/off battery;APC on/off;Battery level;Input 1;Input 2;Input 3;Input 4;Analog input 1;Analog input 2;Analog input 3;Analog input 4;Output 1;Output 2;Output 3;Output 4;Alert identifier; Alert name; Device identifier; Event type identifer; Event type detail; Trigger Date (UNIX epoch); Reception date (UNIX epoch; Escalated notification process state; Event identifier; Trigger date (formattted); Reception date (formatted)
+1;"GPS Fictif";"18/07/2018 12:24:55";"2.33532";"48.874723333333336";"21";"0.0";"0";"82";"Deveryware, 43 Rue Taitbout, 75009 Paris, France";;;;;;;"1";"0";"1";"61";;;;;;;;;"0";;;;
+2;"GPS Fictif";"18/07/2018 14:09:57";"2.3350049999999998";"48.87453333333333";"20";"0.0";"0";"0";"Deveryware, 43 Rue Taitbout, 75009 Paris, France";;;;;;;"1";"0";"1";"58";;;;;;;;;"0";;;;
+3;"GPS Fictif";"18/07/2018 14:24:57";"2.3351116666666667";"48.874495";"22";"0.0";"0";"0";"Deveryware, 43 Rue Taitbout, 75009 Paris, France";;;;;;;"1";"0";"1";"58";;;;;;;;;"0";;;;
+4;"GPS Fictif";"18/07/2018 14:39:55";"2.33538";"48.87470833333333";"19";"0.0";"0";"91";"Deveryware, 43 Rue Taitbout, 75009 Paris, France";;;;;;;"1";"0";"1";"57";;;;;;;;;"0";;;;
+5;"GPS Fictif";"18/07/2018 14:54:57";"2.335201666666667";"48.87470166666667";"21";"0.0";"0";"82";"Deveryware, 43 Rue Taitbout, 75009 Paris, France";;;;;;;"1";"0";"1";"57";;;;;;;;;"0";;;;
+6;"GPS Fictif";"18/07/2018 15:09:57";"2.33514";"48.87475666666667";"42";"0.0";"0";"0";"Deveryware, 43 Rue Taitbout, 75009 Paris, France";;;;;;;"1";"0";"1";"53";;;;;;;;;"0";;;;
+7;"GPS Fictif";"18/07/2018 15:54:55";"2.33529";"48.874678333333335";"21";"0.0";"0";"82";"Deveryware, 43 Rue Taitbout, 75009 Paris, France";;;;;;;"1";"0";"1";"51";;;;;;;;;"0";;;;
+8;"GPS Fictif";"18/07/2018 16:09:56";"2.3351866666666665";"48.87469333333333";"19";"0.0";"0";"82";"Deveryware, 43 Rue Taitbout, 75009 Paris, France";;;;;;;"1";"0";"1";"60";;;;;;;;;"1";;;;
+9;"GPS Fictif";"18/07/2018 16:24:56";"2.3352933333333334";"48.874698333333335";"21";"0.0";"0";"82";"Deveryware, 43 Rue Taitbout, 75009 Paris, France";;;;;;;"1";"0";"1";"79";;;;;;;;;"1";;;;
+10;"GPS Fictif";"18/07/2018 16:39:56";"2.3352033333333333";"48.874705";"19";"0.0";"0";"82";"Deveryware, 43 Rue Taitbout, 75009 Paris, France";;;;;;;"1";"0";"1";"90";;;;;;;;;"1";;;;
+11;"GPS Fictif";"18/07/2018 16:54:56";"2.335195";"48.87470666666667";"19";"0.0";"0";"82";"Deveryware, 43 Rue Taitbout, 75009 Paris, France";;;;;;;"1";"0";"1";"96";;;;;;;;;"1";;;;
+12;"GPS Fictif";"18/07/2018 17:24:56";"2.3351883333333334";"48.874703333333336";"19";"0.0";"0";"82";"Deveryware, 43 Rue Taitbout, 75009 Paris, France";;;;;;;"1";"0";"1";"100";;;;;;;;;"2";;;;
+13;"GPS Fictif";"18/07/2018 17:54:56";"2.33527";"48.87472666666667";"20";"0.0";"0";"82";"Deveryware, 43 Rue Taitbout, 75009 Paris, France";;;;;;;"1";"0";"1";"100";;;;;;;;;"2";;;;
+14;"GPS Fictif";"18/07/2018 18:09:58";"2.335175";"48.874703333333336";"19";"0.0";"0";"82";"Deveryware, 43 Rue Taitbout, 75009 Paris, France";;;;;;;"1";"0";"1";"100";;;;;;;;;"2";;;;
+15;"GPS Fictif";"18/07/2018 18:39:57";"2.335055";"48.874595";"21";"0.0";"0";"82";"Deveryware, 43 Rue Taitbout, 75009 Paris, France";;;;;;;"1";"0";"1";"100";;;;;;;;;"0";;;;
+16;"GPS Fictif";"18/07/2018 18:56:27";"2.3351033333333335";"48.874673333333334";"19";"0.0";"0";"82";"Deveryware, 43 Rue Taitbout, 75009 Paris, France";;;;;;;"1";"0";"1";"100";;;;;;;;;"0";;;;
+43;"GPS Fictif";"19/07/2018 09:09:56";"2.335245";"48.874896666666665";"19";"0.0";"0";"0";"Deveryware, 43 Rue Taitbout, 75009 Paris, France";;;;;;;"1";"0";"1";"55";;;;;;;;;"0";;;;
+44;"GPS Fictif";"19/07/2018 09:24:56";"2.3352033333333333";"48.874695";"20";"0.0";"0";"82";"Deveryware, 43 Rue Taitbout, 75009 Paris, France";;;;;;;"1";"0";"1";"54";;;;;;;;;"0";;;;
+45;"GPS Fictif";"19/07/2018 09:39:57";"2.3351116666666667";"48.87446666666666";"25";"0.0";"0";"0";"Deveryware, 43 Rue Taitbout, 75009 Paris, France";;;;;;;"1";"0";"1";"53";;;;;;;;;"0";;;;
+46;"GPS Fictif";"19/07/2018 09:54:56";"2.335183333333333";"48.87468666666667";"19";"0.0";"0";"82";"Deveryware, 43 Rue Taitbout, 75009 Paris, France";;;;;;;"1";"0";"1";"52";;;;;;;;;"0";;;;
+47;"GPS Fictif";"19/07/2018 10:09:57";"2.3353333333333333";"48.87470166666667";"20";"0.0";"0";"0";"Deveryware, 43 Rue Taitbout, 75009 Paris, France";;;;;;;"1";"0";"1";"52";;;;;;;;;"0";;;;
+48;"GPS Fictif";"19/07/2018 10:24:57";"2.3353333333333333";"48.87470166666667";"20";"0.0";"0";"0";"Deveryware, 43 Rue Taitbout, 75009 Paris, France";;;;;;;"1";"0";"1";"50";;;;;;;;;"0";;;;
+49;"GPS Fictif";"19/07/2018 10:39:57";"2.3353333333333333";"48.87470166666667";"20";"0.0";"0";"80";"Deveryware, 43 Rue Taitbout, 75009 Paris, France";;;;;;;"1";"0";"1";"49";;;;;;;;;"0";;;;
+50;"GPS Fictif";"19/07/2018 11:09:39";"2.3353133333333336";"48.87469333333333";"20";"0.0";"0";"82";"Deveryware, 43 Rue Taitbout, 75009 Paris, France";;;;;;;"1";"0";"1";"48";;;;;;;;;"0";;;;
