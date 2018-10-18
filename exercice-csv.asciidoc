@@ -1,0 +1,21 @@
+Évaluation CSV
+==============
+
+== Objectif
+
+Écrire un programme en Java 8 qui lit le fichier CSV en annexe et créée des objets java qui représentent les objets métiers en question. A la fin du programme, il faudra afficher la moyenne d'altitude pour ce mobile. 
+
+Il faut pousser des commit qui tracent les différentes étapes de votre développement.
+
+Les commentaires de commit doivent être en anglais.
+
+Le code ne doit pas utiliser de bibliothèque pour analyser le fichier CSV.
+
+Il est recommandé de ne pas dépasser les 2 heures pour réaliser l'exercice.
+
+*Bonus* : si vous deviez utiliser une bibliothèque pour cette exercice, laquelle utiliseriez-vous ? justifiez votre choix.
+
+== Annexe
+
+link:histo.csv[Fichier CSV]
+
